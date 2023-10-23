@@ -1,2 +1,2 @@
-# Fundamentos_de_Programacionn
+# Fundamentos_de_Programacion
 Mi carpetota bien makiabelica
